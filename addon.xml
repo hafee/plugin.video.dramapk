@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.dramapk"
+	name="Pakistan Dramas on YouTube"
+	version="1.0.0"
+	provider-name="Hafeez Malik">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Pakistan Dramas on YouTube</summary>
+    <description lang="en">Stream From YouTube Channels for Pakistan Dramas, This plug-in is for personal use only and I don't have any affiliation with contents providers.</description>
+    <platform>all</platform>
+    <forum>https://github.com/hafee/plugin.video.pkdrama/wiki</forum>
+	<source>https://github.com/hafee/plugin.video.dramapk</source>
+	<email>lvs101 [at] hotmail [dot] com</email>
+    <license>GPL v3.0</license>
+	<assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <screenshot>resources/screenshot-01.jpg</screenshot>
+    </assets>
+    </extension>
+</addon>
