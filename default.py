@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #------------------------------------------------------------
-# The X Factor International
+# Pakistani Dramas from Youtube channels
 #------------------------------------------------------------
 # License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
 # Based on code from youtube addon
