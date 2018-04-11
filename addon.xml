@@ -13,7 +13,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Pakistan Dramas on YouTube</summary>
-    <description lang="en">Stream From YouTube Channels for Pakistan Dramas, This plug-in is for personal use only and I don't have any affiliation with contents providers.</description>
+    <description lang="en">Stream From YouTube Channels for Pakistan Dramas, This plug-in is for personal use only and I don't have any affiliation with contents providers. You can add/remove channels as per requirment, or contact me: lvs101@hotmail.com</description>
     <platform>all</platform>
     <forum>https://github.com/hafee/plugin.video.pkdrama/wiki</forum>
 	<source>https://github.com/hafee/plugin.video.dramapk</source>
